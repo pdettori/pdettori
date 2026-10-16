@@ -6,7 +6,7 @@ My research interests span distributed systems, cloud-native technologies, and o
 
 ### What I'm working on
 
-- **[Kagenti](https://github.com/kagenti/kagenti)** — A cloud-native middleware platform for deploying and orchestrating AI agents on Kubernetes, with secure identity (SPIFFE/SPIRE), service mesh (Istio Ambient), and support for A2A and MCP protocols
+- **[rossoctl](https://github.com/rossoctl/rossoctl)** — A cloud-native middleware platform for deploying and orchestrating AI agents on Kubernetes, with secure identity (SPIFFE/SPIRE), service mesh (Istio Ambient), and support for A2A and MCP protocols
 - **[KubeStellar](https://github.com/kubestellar/kubestellar)** — CNCF Sandbox project for multi-cluster Kubernetes configuration management
 
 ### Interests & Technologies
